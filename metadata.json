@@ -1,0 +1,7 @@
+{
+  "name": "UU EEE Assistant",
+  "description": "Voice-enabled department management app for Uttara University EEE Batch 2026.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
